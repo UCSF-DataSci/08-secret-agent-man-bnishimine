@@ -1,0 +1,168 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Jealousy over Marcus's discovery of the treasure map and the coins.",
+  "evidence": [
+    "Antler trophy wiped clean of fingerprints, indicating it was used as a weapon and the killer attempted to hide their involvement.",
+    "Scuff mark on the hardwood floor suggests a struggle occurred in the living room, likely involving Marcus and Larry.",
+    "Marcus's last text indicates a conflict over ownership of something valuable, likely the treasure map.",
+    "Damp hiking boots belonging to Larry found in the mudroom, suggesting he was outside after dinner and possibly involved in the struggle.",
+    "Unlocked back door contradicts claims that it was locked, allowing for an easy escape or entry for the killer.",
+    "Rubber glove found inside-out in the mudroom suggests a hurried removal after the crime, indicating premeditated actions.",
+    "Boot prints leading from the mudroom suggest Larry's movements around the cabin after the incident."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What can you tell me about the coffee mug with your lipstick on it?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What were you doing outside after dinner?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What do you know about the antler trophy that was wiped clean of fingerprints?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: Can you explain the photos taken with your camera between 9:04pm and 11:27pm?"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: Ah, yes, the coffee mug. I suppose it\u2019s a rather mundane detail in the grand scheme of things, but I"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall. The timestamps on my ca"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, I wasn't outside for long! Just, you know, taking a quick stroll to clear my head after dinner. "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: The antler trophy was Marcus's pride and joy; he loved to show it off and often talked about the hun"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15 PM, and then I video-called my wife from my room. Th"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall from about 9pm to 11:30p"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading until midnight and then slept through until 7 am. I have no idea what happe"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! So, I was actually playing cards with Tom at around that time, you know, just a friendly "
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What was your alibi during the time of the murder?"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, right! My alibi! I was actually playing cards with Tom at our place. We wrapped up around 9:30 P"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was in my room reading until midnight and then slept through until 7 am. I have no idea what happe"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was outside on the back porch taking long-exposure photos of the snowfall from about 9pm to 11:30p"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I was playing cards with Larry until about 9:15 PM, and then I video-called my wife from my room. Th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: You mentioned you were reading in your room. Can anyone confirm that you were th"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: You said you were playing cards with Tom. Can you provide more details about tha"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: You stated you were on a video call with your wife. Can you provide the exact ti"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: You were taking photos outside. Did you notice anything unusual while you were o"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was alone in my room, engrossed in a book. It's not exactly a social event, so no, I don't have an"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was mostly focused on my photography, trying to capture the snowfall. I did hear a loud thud from "
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: Of course. I was on the video call with my wife from 9:20 PM to 10:45 PM. I can provide the phone re"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, sure! We were just hanging out in my room, playing a few rounds of poker, you know, just a casua"
+    }
+  ]
+}
